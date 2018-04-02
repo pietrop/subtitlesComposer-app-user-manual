@@ -13,12 +13,12 @@ There a few options for this
 
 Side note, you can use auto mated system to get a first drafr of the text such as
 
-- (autoEdit](http://www.autoedit.io/) - [see user manual](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content/transcribing.html) to get automated transcriptions from IBM Watson to use as a first draft.
+- [autoEdit](http://www.autoedit.io/) - [see user manual](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content/transcribing.html) is a fast text based video editing app for os x, that can also be used to get automated transcriptions from IBM Watson to use as a first draft.
 - [Video downloader app](https://github.com/pietrop/electron-video-downloader/releases) to get automated captions from youtube to use as a first draft.
 - Others...
 
 
 
-Note: The text does not need to have punctuation for the app 
+Note: The text does not need to have punctuation for the app to generate the caption file. 
 
 But if punctuation is provided the app will use it to make more informed judgement calls on when to break words onto a new line.

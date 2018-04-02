@@ -26,3 +26,4 @@ You can install it for [mac os x by downloading the `dmg` from this link](https:
 ![Aeneas in app link ](/assets/intro-aeneas-notice.png)
 
 
+At a very high level under the hood Aeneas converts the text of the provided transcription into speech (`TTS`) and compares the waveform with the one of the original media (audio or video) to do the alignment. 
