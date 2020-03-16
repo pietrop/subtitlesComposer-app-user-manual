@@ -1,11 +1,10 @@
-# `Subtitle Composer App` user manual
+# Introduction
 
-User manual for`Subtitle Composer App` a fast Max OS X app for generating subtitles from plain text files, that do not have time-codes).
+User manual for`Subtitle Composer App` a fast Max OS X app for generating subtitles from plain text files, that do not have time-codes\).
 
 The user manual is currently up to date with version `1.0.2`.
 
-
-![Screenshot](/assets/video+text+.png)
+![Screenshot](.gitbook/assets/video+text+.png)
 
 If you have any issues, thoughts, questions, or ideas feel free to get in touch with [Pietro](http://twitter.com/pietropassarell).
 
