@@ -2,7 +2,7 @@
 
 You can modify the text in the text area.
 
-![video+text](../.gitbook/assets/video+text+.png)
+![Video + Text](../.gitbook/assets/adding-text.png)
 
 Optionally you can check the box `pause video while typing` to ease with the process of correcting the text.
 

@@ -6,15 +6,20 @@ There a few options for this
 2. you copy and paste from another source, eg a word document etc, directly into the app text area.
 3. you can play the video and type the text yourself.
 
-![video+text](../.gitbook/assets/video+text+.png)
+![Adding text](../.gitbook/assets/adding-text.png)
 
 Side note, you can use auto mated system to get a first drafr of the text such as
 
-* [autoEdit](http://www.autoedit.io/) - [see user manual](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content/transcribing.html) is a fast text based video editing app for os x, that can also be used to get automated transcriptions from IBM Watson to use as a first draft.
+* [autoEdit](http://www.autoedit.io/) - [see user manual](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content/transcribing.html) is a fast text based video editing app for os x, that can also be used to get automated transcriptions from IBM Watson and other STT providers to use as a first draft.
+* Digital Paper Edit -[ see user manual](https://autoedit.gitbook.io/digital-paper-edit-user-manual/), latest version of autoEdit. Is a fast text based video editing app for os x, that can also be used to get automated transcriptions from AssemblyAI, Speechamatics etc.. to use as a first draft.
 * [Video downloader app](https://github.com/pietrop/electron-video-downloader/releases) to get automated captions from youtube to use as a first draft.
 * Others...
 
-Note: The text does not need to have punctuation for the app to generate the caption file.
-
+{% hint style="info" %}
+Note: The text does not need to have **punctuation** for the app to generate the caption file.  
+  
 But if punctuation is provided the app will use it to make more informed judgement calls on when to break words onto a new line.
+{% endhint %}
+
+
 

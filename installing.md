@@ -7,6 +7,7 @@ Download the latest stable release from the [releases page](https://github.com/p
 * download the `dmg` file
 * open it/mount it on your mac/finder
 * drag the app into the applications folder
+  * First time you open it, right click on the app and click open, to avoid the `unidentified developer` error message. From then on, you can double click.
 * add it to the dock if you want a shortcut to it.
 
 ### `unidentified developer` <a id="unidentified-developer"></a>

@@ -2,11 +2,13 @@
 
 ## Open the app
 
-![Open](.gitbook/assets/intro.png)
+![Open](.gitbook/assets/open.png)
 
 ## click on `select video or audio file`
 
-![video only](.gitbook/assets/video-only.png)
+![](.gitbook/assets/select-video.png)
 
-select the video or audio you'd like to add
+select the video or audio you'd like to add.
+
+See next section, [adding text](adding-text/).
 
