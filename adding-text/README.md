@@ -6,7 +6,7 @@ There a few options for this
 2. you copy and paste from another source, eg a word document etc, directly into the app text area.
 3. you can play the video and type the text yourself.
 
-![Adding text](../.gitbook/assets/adding-text.png)
+![Adding text](../.gitbook/assets/adding-text%20%281%29.png)
 
 Side note, you can use auto mated system to get a first drafr of the text such as
 

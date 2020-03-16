@@ -17,5 +17,7 @@ Such as
 
   > Output sync map formats: AUD, CSV, EAF, JSON, SMIL, SRT, SSV, SUB, TEXTGRID, TSV, TTML, TXT, VTT, XML [From Aeneas documentation for a comprehensive list of supported file formats](https://github.com/readbeyond/aeneas#supported-features)
 
-![video+text](../.gitbook/assets/video+text+.png)
+
+
+![Video + Text](../.gitbook/assets/adding-text%20%281%29.png)
 
